@@ -10,5 +10,7 @@ recapitulate important theory papers
 lots of plots
 
 ##bibliography
+[1] important
+[2] paper
 
 ## appendix
